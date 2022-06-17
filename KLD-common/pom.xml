@@ -18,7 +18,7 @@
         <druid-starter.version>1.1.6</druid-starter.version>
         <pagehelper.version>1.1.2</pagehelper.version>
         <bcprov-jdk.version>1.46</bcprov-jdk.version>
-        <fastjson.version>1.2.47</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <commons-io.version>2.5</commons-io.version>
         <commons-lang3.version>3.6</commons-lang3.version>
         <guice.version>4.1.0</guice.version>
